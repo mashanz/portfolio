@@ -6,6 +6,10 @@ In this repo I collect remaining project data `if there still available` for doc
 
 `note:` **Jack Of All Trade, Master of Developer** `LMAO`
 
+```
+This only public and available (part of it available) to publish. Please email me if You wanna detailed information.
+```
+
 ## Table of Content
 
 1. [Web Online Registration for School's Club Member](#web-online-registration-for-schools-club-member)
