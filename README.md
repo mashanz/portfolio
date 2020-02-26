@@ -27,9 +27,8 @@ Hi There! This is my public projects portfolio, I have work at various and diffe
 20. [Expanse Tracker](#expanse-tracker)
 21. [Just Java](#just-java)
 22. [Ngira ngira cuaca](#ngira-ngira-cuaca)
-23. [Custom Library](#custom-library)
-24. [Design Chip Tools](#design-chip-tools)
-25. [FPGA Tools](#fpga-tools)
+23. [Design Chip Tools](#design-chip-tools)
+24. [FPGA Tools](#fpga-tools)
 25. [Python Custom Offline Distribution](#python-custom-offline-distribution)
 
 ## Web Online Registration for Schools Club Member 
@@ -94,8 +93,6 @@ Hi There! This is my public projects portfolio, I have work at various and diffe
 
 ## Ngira ngira cuaca
 [link](https://github.com/mashanz/NgiraNgiraCuaca)
-
-## Custom Library
 
 ### Design Chip Tools
 [link](https://github.com/mashanz/Design-Chip-Tools)
