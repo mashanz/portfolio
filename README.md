@@ -19,7 +19,6 @@ Hi There! This is my public projects portfolio, I have work at various and diffe
 11. [Trafic Analisys](#trafic-analisys)
 12. [Milti Camera Video Processing with Paralel Computing](#milti-camera-video-processing-with-paralel-computing)
 13. [Katalog Filem](#katalog-filem)
-14. [Latihan Tembak Standard API](#latihan-tembak-standard-api)
 15. [CaffeIn](#caffein)
 16. [ETR](#etr)
 17. [Aleph](#aleph)
@@ -29,9 +28,9 @@ Hi There! This is my public projects portfolio, I have work at various and diffe
 21. [Just Java](#just-java)
 22. [Ngira ngira cuaca](#ngira-ngira-cuaca)
 23. [Custom Library](#custom-library)
-    - [Design Chip Tools](#design-chip-tools)
-    - [FPGA Tools](#fpga-tools)
-    - [Python Custom Offline Distribution](#python-custom-offline-distribution)
+24. [Design Chip Tools](#design-chip-tools)
+25. [FPGA Tools](#fpga-tools)
+25. [Python Custom Offline Distribution](#python-custom-offline-distribution)
 
 ## Web Online Registration for Schools Club Member 
 [link](https://github.com/mashanz/pendaftaran-online-ekskul)
@@ -71,9 +70,6 @@ Hi There! This is my public projects portfolio, I have work at various and diffe
 
 ## Katalog Filem
 [link](https://github.com/mashanz/KatalogFilem)
-
-## Latihan Tembak Standard API
-[link](https://github.com/mashanz/LatihanTembakStandardAPI)
 
 ## CaffeIn
 [link](https://github.com/mashanz/CaffeIn)
