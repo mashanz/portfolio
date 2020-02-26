@@ -1,8 +1,8 @@
 # Open Project Development
 
-Hi There! My name is **`Hanjara Cahya Adhyatma`** This is my public projects portfolio, I have work at various and different kind of projects. From Embedded Hardware to Web Server. I start to have interest in coding since Elementary Scool and my first program is desktop calculator build with VisualBasic. When attend Junior High School I start my first web and when I am Senior High School I build my own PCB to create LED Flip-Flop, simple Trafic Light and Guitar Effect. After I go to university I have interest in robotic and start to build various Robots.
+Hi There! My name is **`Hanjara Cahya Adhyatma`** This is my public projects portfolio, I have work at various and different kind of projects. From Embedded Hardware to Web Server. I start to have interest in coding since **Elementary Scool** and my first program is desktop calculator build with _VisualBasic_. When attend **Junior High School** I start _my first web_ and when I am **Senior High School** I build my own _PCB_ to create _LED Flip-Flop, simple Trafic Light and Guitar Effect_. After I go to **University** I have interest in _robotic_ and start to build various Robots.
 
-In this repo I collect remaining project data `(if there still available)` for documentation and education purpose. Here we are!
+In this repo I collect remaining project data `if there still available` for documentation and education purpose. Here we are!
 
 `note:` **Jack Of All Trade, Master of Developer** `LMAO`
 
