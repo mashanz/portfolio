@@ -6,7 +6,7 @@ Hi There! This is my public projects portfolio, I have work at various and diffe
 
 ## Table of Content
 
-1. [Web Online Registration for School's Club Member](#web-online-registration-for-school\'\s-club-member)
+1. [Web Online Registration for School's Club Member](#web-online-registration-for-schools-club-member)
 2. [AVR 3D Axis Music Box Instrument](#avr-3d-axis-music-box-instrument)
 3. [Fujitsu IoT Health Care](#fujitsu-iot-health-care)
 4. [Humanoid Robo Soccer Firmware Artificial Intelligence](#humanoid-robo-soccer-firmware-artificial-intelligence)
@@ -33,7 +33,7 @@ Hi There! This is my public projects portfolio, I have work at various and diffe
     - [FPGA Tools](#fpga-tools)
     - [Python Custom Offline Distribution](#python-custom-offline-distribution)
 
-## Web Online Registration for School's Club Member 
+## Web Online Registration for Schools Club Member 
 [link](https://github.com/mashanz/pendaftaran-online-ekskul)
 
 ## AVR 3D Axis Music Box Instrument
