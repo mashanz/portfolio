@@ -42,9 +42,9 @@ Please email me if You wanna detailed information.
 ## Web Online Registration for Schools Club Member 
 > [Go to Repo](https://github.com/mashanz/pendaftaran-online-ekskul)
 
-This project from when I still Senior High School. Every years our school have club event that introducting every club activity in school. This event is part of freshman orientation. In this event every club also recruiting possible member candidate. So, we from Computer Club decide to create paperless registration to support Green Environment without waste.
+This project from when I still Senior High School (2011). Every years our school have club event that introducting every club activity in school. This event is part of freshman orientation. In this event every club also recruiting possible member candidate. So, we from Computer Club decide to create paperless registration to support Green Environment without waste.
 
-The Project Build with `HTML, CSS, JS, jQuery, PHP, and XAMPP (Apache, MySQL, PHP, Pearl)` Engine. At that time i still use `notepad` or `Notepad++` IDE to edit the code. The Code build from bare scratch without any framework like `ReactJS, VueJS, Code Igniter` etc and without `git` versioning.
+The Project Build with `HTML, CSS, JS, jQuery, PHP, and XAMPP (Apache, MySQL, PHP, Pearl)` Engine. At that time I still use `notepad` or `Notepad++` IDE to edit the code. This project build from scratch without any framework like `ReactJS, VueJS, Code Igniter` etc.
 
 ## AVR 3D Axis Music Box Instrument
 [link](https://github.com/mashanz/AVR-3D-Axis-Music-Box-Instrument)
