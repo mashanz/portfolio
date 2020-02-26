@@ -2,16 +2,12 @@
 
 Hi There! This is my public projects portfolio, I have work at various and different kind of projects.
 
-- [Terbaik](#terbaik)
-
-<!-- toc -->
-
 `note:` **Jack Of All Trade, Master of Developer** `LMAO`
 
 
 Index of Projects
 
-1. [Web Online Registration for School's Club Member](https://github.com/mashanz/pendaftaran-online-ekskul)
+- [Web Online Registration for School's Club Member](#Web-Online-Registration-for-School's-Club-Member)
 2. [AVR 3D Axis Music Box Instrument](https://github.com/mashanz/AVR-3D-Axis-Music-Box-Instrument)
 3. [Fujitsu IoT Health Care](https://github.com/mashanz/Fujitsu-Health-Care)
 4. [Humanoid Robo Soccer Firmware Artificial Intelligence
@@ -41,4 +37,32 @@ Index of Projects
 26. [FPGA Tools](https://github.com/mashanz/FPGA-Tools-Firmware-ElberV2)
 27. [Python Custom Offline Distribution](https://github.com/mashanz/python_self_dist)
 
-# Terbaik
+# Web Online Registration for School's Club Member 
+[link](https://github.com/mashanz/pendaftaran-online-ekskul)
+
+# [AVR 3D Axis Music Box Instrument](https://github.com/mashanz/AVR-3D-Axis-Music-Box-Instrument)
+# [Fujitsu IoT Health Care](https://github.com/mashanz/Fujitsu-Health-Care)
+# [Humanoid Robo Soccer Firmware Artificial Intelligence](https://github.com/mashanz/ELPISTOLERRO)
+# [Firmware for Autonomous Robot Boat Virginia](https://github.com/mashanz/Dewantara-Robo-Boat-Virginia)
+# [LoPy Request for Solar System Database Controller](https://github.com/mashanz/Solar-Sel-Controller-LoPy)
+# [Paralel Processing with TensorFlow](https://github.com/mashanz/Paralel-Calculating-with-Tensor-Flow)
+# [Multi Camera CCTV video Processing](https://github.com/mashanz/multi-cam-template)
+# [POS management Kasir with Pyhton QT](https://github.com/mashanz/E-Kasir-Dashboard-C-QT)
+# [Serial Communication Car Simulator with Unity 3D](https://github.com/mashanz/Serial-Comm-Car-Simulator-with-Unity-3D)
+# [Trafic Analisys](https://github.com/mashanz/Trafic-Analisys-with-Google-API)
+# [Milti Camera Video Processing with Paralel Computing](https://github.com/mashanz/client_server_with_thread)
+# [Design Chip Tools](https://github.com/mashanz/Design-Chip-Tools)
+# [Katalog Filem](https://github.com/mashanz/KatalogFilem)
+# [Latihan Tembak Standard API](https://github.com/mashanz/LatihanTembakStandardAPI)
+# [CaffeIn](https://github.com/mashanz/CaffeIn)
+# [ETR](https://github.com/mashanz/ETR)
+# [Aleph](https://github.com/mashanz/Aleph)
+# [Sambel Apa Garam](https://github.com/mashanz/SambelApaGaram)
+# [Ngira Ngira Cuaca JSON](https://github.com/mashanz/NgiraNgiraCuacaJSON)
+# [Expanse Tracker](https://github.com/mashanz/ExpanseTracker)
+# [MyApp](https://github.com/mashanz/MyApplication)
+# [MyApp2](https://github.com/mashanz/MyApplication2)
+# [Just Java](https://github.com/mashanz/JustJava)
+# [Ngira ngira cuaca](https://github.com/mashanz/NgiraNgiraCuaca)
+# [FPGA Tools](https://github.com/mashanz/FPGA-Tools-Firmware-ElberV2)
+# [Python Custom Offline Distribution](https://github.com/mashanz/python_self_dist)
