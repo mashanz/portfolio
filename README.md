@@ -22,15 +22,14 @@ Please email me if You wanna detailed information.
 6. [LoPy Request for Solar System Database Controller](#lopy-request-for-solar-system-database-controller)
 7. [Parallel Processing with TensorFlow](#parallel-processing-with-tensorflow)
 8. [Multi Camera CCTV video Processing with Parallel Computing](#multi-camera-cctv-video-processing-with-parallel-computing)
-9. [POS management Kasir with Pyhton QT](#pos-management-kasir-with-pyhton-qt)
-10. [Serial Communication Car Simulator with Unity 3D](#serial-communication-car-simulator-with-unity-3d)
-11. [Trafic Analisys with Google Map API](#trafic-analisys-with-google-map-api)
-12. [POS for Caffe App Android](#pos-for-caffe-app-android)
-13. [Expanse Tracker App Android](#expanse-tracker-app-android)
-14. [Weather App Android](#weather-app-android)
-15. [Design Chip Tools](#design-chip-tools)
-16. [FPGA Tools](#fpga-tools)
-17. [Python Custom Offline Distribution](#python-custom-offline-distribution)
+9. [Serial Communication Car Simulator with Unity 3D](#serial-communication-car-simulator-with-unity-3d)
+10. [Trafic Analisys with Google Map API](#trafic-analisys-with-google-map-api)
+11. [POS for Caffe App Android](#pos-for-caffe-app-android)
+12. [Expanse Tracker App Android](#expanse-tracker-app-android)
+13. [Weather App Android](#weather-app-android)
+14. [Design Chip Tools](#design-chip-tools)
+15. [FPGA Tools](#fpga-tools)
+16. [Python Custom Offline Distribution](#python-custom-offline-distribution)
 
 ## Web Online Registration for Schools Club Member 
 > [Go to Repo](https://github.com/mashanz/pendaftaran-online-ekskul)
@@ -102,14 +101,6 @@ Technologies/Frameworks : TensorFlow
 ```
 Languages               : Python, SQL
 Technologies/Frameworks : XAMPP, OpenCV, Camera
-```
-
-## POS management Kasir with Pyhton QT
-[link](https://github.com/mashanz/E-Kasir-Dashboard-C-QT)
-
-```
-Languages               : Python
-Technologies/Frameworks : QT
 ```
 
 ## Serial Communication Car Simulator with Unity 3D
