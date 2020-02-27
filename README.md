@@ -16,25 +16,21 @@ Please email me if You wanna detailed information.
 
 1. [Web Online Registration for School's Club Member](#web-online-registration-for-schools-club-member)
 2. [AVR 3D Axis Music Box Instrument](#avr-3d-axis-music-box-instrument)
-3. [Fujitsu IoT Health Care](#fujitsu-iot-health-care)
+3. [IoT Health Care Monitoring](#iot-health-care-monitoring)
 4. [Humanoid Robo Soccer Firmware Artificial Intelligence](#humanoid-robo-soccer-firmware-artificial-intelligence)
 5. [Firmware for Autonomous Robot Boat Virginia](#firmware-for-autonomous-robot-boat-virginia)
 6. [LoPy Request for Solar System Database Controller](#lopy-request-for-solar-system-database-controller)
-7. [Paralel Processing with TensorFlow](#paralel-processing-with-tensorflow)
-8. [Multi Camera CCTV video Processing](#multi-camera-cctv-video-processing)
+7. [Parallel Processing with TensorFlow](#parallel-processing-with-tensorflow)
+8. [Multi Camera CCTV video Processing with Parallel Computing](#multi-camera-cctv-video-processing-with-parallel-computing)
 9. [POS management Kasir with Pyhton QT](#pos-management-kasir-with-pyhton-qt)
 10. [Serial Communication Car Simulator with Unity 3D](#serial-communication-car-simulator-with-unity-3d)
-11. [Trafic Analisys](#trafic-analisys)
-12. [Milti Camera Video Processing with Paralel Computing](#milti-camera-video-processing-with-paralel-computing)
-13. [Katalog Filem](#katalog-filem)
-15. [CaffeIn](#caffein)
-16. [ETR](#etr)
-17. [Aleph](#aleph)
-21. [Just Java](#just-java)
-22. [Ngira ngira cuaca](#ngira-ngira-cuaca)
-23. [Design Chip Tools](#design-chip-tools)
-24. [FPGA Tools](#fpga-tools)
-25. [Python Custom Offline Distribution](#python-custom-offline-distribution)
+11. [Trafic Analisys with Google Map API](#trafic-analisys-with-google-map-api)
+12. [POS for Caffe App Android](#pos-for-caffe-app-android)
+13. [Expanse Tracker App Android](#expanse-tracker-app-android)
+14. [Weather App Android](#weather-app-android)
+15. [Design Chip Tools](#design-chip-tools)
+16. [FPGA Tools](#fpga-tools)
+17. [Python Custom Offline Distribution](#python-custom-offline-distribution)
 
 ## Web Online Registration for Schools Club Member 
 > [Go to Repo](https://github.com/mashanz/pendaftaran-online-ekskul)
@@ -46,7 +42,7 @@ The Project Build with `HTML, CSS, JS, jQuery, PHP, and XAMPP (Apache, MySQL, PH
 ## AVR 3D Axis Music Box Instrument
 [link](https://github.com/mashanz/AVR-3D-Axis-Music-Box-Instrument)
 
-## Fujitsu IoT Health Care
+## IoT Health Care Monitoring
 [link](https://github.com/mashanz/Fujitsu-Health-Care)
 
 ## Humanoid Robo Soccer Firmware Artificial Intelligence
@@ -58,10 +54,10 @@ The Project Build with `HTML, CSS, JS, jQuery, PHP, and XAMPP (Apache, MySQL, PH
 ## LoPy Request for Solar System Database Controller
 [link](https://github.com/mashanz/Solar-Sel-Controller-LoPy)
 
-## Paralel Processing with TensorFlow
+## Parallel Processing with TensorFlow
 [link](https://github.com/mashanz/Paralel-Calculating-with-Tensor-Flow)
 
-## Multi Camera CCTV video Processing
+## Multi Camera CCTV video Processing With Parallel Computing
 [link](https://github.com/mashanz/multi-cam-template)
 
 ## POS management Kasir with Pyhton QT
@@ -70,35 +66,23 @@ The Project Build with `HTML, CSS, JS, jQuery, PHP, and XAMPP (Apache, MySQL, PH
 ## Serial Communication Car Simulator with Unity 3D
 [link](https://github.com/mashanz/Serial-Comm-Car-Simulator-with-Unity-3D)
 
-## Trafic Analisys
+## Trafic Analisys with Google Map API
 [link](https://github.com/mashanz/Trafic-Analisys-with-Google-API)
 
-## Milti Camera Video Processing with Paralel Computing
-[link](https://github.com/mashanz/client_server_with_thread)
-
-## Katalog Filem
-[link](https://github.com/mashanz/KatalogFilem)
-
-## CaffeIn
+## POS for Caffe App Android
 [link](https://github.com/mashanz/CaffeIn)
 
-## ETR
+## Expanse Tracker App Android
 [link](https://github.com/mashanz/ETR)
 
-## Aleph
-[link](https://github.com/mashanz/Aleph)
-
-## Just Java
-[link](https://github.com/mashanz/JustJava)
-
-## Ngira ngira cuaca
+## Weather App Android
 [link](https://github.com/mashanz/NgiraNgiraCuaca)
 
-### Design Chip Tools
+## Design Chip Tools
 [link](https://github.com/mashanz/Design-Chip-Tools)
 
-### FPGA Tools
+## FPGA Tools
 [link](https://github.com/mashanz/FPGA-Tools-Firmware-ElberV2)
 
-### Python Custom Offline Distribution
+## Python Custom Offline Distribution
 [link](https://github.com/mashanz/python_self_dist)
