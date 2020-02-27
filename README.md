@@ -37,10 +37,14 @@ Please email me if You wanna detailed information.
 
 This project from when I still Senior High School (2011). Every years our school have club event that introducting every club activity in school. This event is part of freshman orientation. In this event every club also recruiting possible member candidate. So, we from Computer Club decide to create paperless registration to support Green Environment without waste.
 
-The Project Build with `HTML, CSS, JS, jQuery, PHP, and XAMPP (Apache, MySQL, PHP, Pearl)` Engine. At that time I still use `notepad` or `Notepad++` IDE to edit the code. This project build from scratch without any framework like `ReactJS, VueJS, Code Igniter` etc.
+This CMS Build with `HTML, CSS, JS, jQuery, PHP, and XAMPP (Apache, MySQL, PHP, Pearl)` Engine. At that time I still use `notepad` or `Notepad++` IDE to edit the code. This project build from scratch without any framework like `ReactJS, VueJS, Code Igniter` etc.
 
 ## AVR 3D Axis Music Box Instrument
-[link](https://github.com/mashanz/AVR-3D-Axis-Music-Box-Instrument)
+> [Go to Repo](https://github.com/mashanz/AVR-3D-Axis-Music-Box-Instrument)
+
+Midi digital instrumen based on '3D movement'. The instrumen build with `ATmega32` microcontroller and `9 DOF sensor` (Accelero, Gyro, and Magneto). The apearance of this device is like stick and you can play it like air drum. This MIDI device is also preloaded with `16 bit music` like nasional theme `Ibu Kita Kartini` and folk music `Gundul - Gundul Pacul`.
+
+This Device mainly build with `C/C++` with `Arduino Library`. On this repo source code only available. For PCB schematic and wiring you can contact me or reverse engineer with your own.
 
 ## IoT Health Care Monitoring
 [link](https://github.com/mashanz/Fujitsu-Health-Care)
