@@ -40,8 +40,8 @@ This project from when I still Senior High School (2011). Every years our school
 This CMS Build with `HTML, CSS, JS, jQuery, PHP, and XAMPP (Apache, MySQL, PHP, Pearl)` Engine. At that time I still use `notepad` or `Notepad++` IDE to edit the code. This project build from scratch without any framework like `ReactJS, VueJS, Code Igniter` etc.
 
 ```
-Languge              : HTML, CSS, JS, PHP
-Technology/Framework : XAMPP, jQuery
+Languages               : HTML, CSS, JS, PHP
+Technologies/Frameworks : XAMPP, jQuery
 ```
 
 ## AVR 3D Axis Music Box Instrument
@@ -52,126 +52,126 @@ Midi digital instrumen based on '3D movement'. The instrumen build with `ATmega3
 This Device mainly build with `C/C++` with `Arduino Library`. On this repo source code only available. For PCB schematic and wiring you can contact me or reverse engineer with your own.
 
 ```
-Languge              : C, C++
-Technology/Framework : Arduino, ATmega32, 9 DOF Sensor
+Languages               : C, C++
+Technologies/Frameworks : Arduino, ATmega32, 9 DOF Sensor, Camera
 ```
 
 ## IoT Health Care Monitoring
 [link](https://github.com/mashanz/Fujitsu-Health-Care)
 
 ```
-Languge              : Python
-Technology/Framework : 10 DOF Sensor, Heart Rate Sensor, Microcontroller, Power BI, SQL Server, CSV
+Languages               : Python
+Technologies/Frameworks : 10 DOF Sensor, Heart Rate Sensor, Microcontroller, Power BI, SQL Server, CSV
 ```
 
 ## Humanoid Robo Soccer Firmware Artificial Intelligence
 [link](https://github.com/mashanz/ELPISTOLERRO)
 
 ```
-Languge              : 
-Technology/Framework : 
+Languages               : Python, C, C++, Shell
+Technologies/Frameworks : OpenCV, Raspberry Pi, 9 DOF Sensor, Servo, Camera
 ```
 
 ## Firmware for Autonomous Robot Boat Virginia
 [link](https://github.com/mashanz/Dewantara-Robo-Boat-Virginia)
 
 ```
-Languge              : 
-Technology/Framework : 
+Languages               : Python
+Technologies/Frameworks : OpenCV, QT, Raspbery Pi, Camera, Brushless Motor
 ```
 
 ## LoPy Request for Solar System Database Controller
 [link](https://github.com/mashanz/Solar-Sel-Controller-LoPy)
 
 ```
-Languge              : 
-Technology/Framework : 
+Languages               : MicroPython
+Technologies/Frameworks : XAMPP, LoPy
 ```
 
 ## Parallel Processing with TensorFlow
 [link](https://github.com/mashanz/Paralel-Calculating-with-Tensor-Flow)
 
 ```
-Languge              : 
-Technology/Framework : 
+Languages               : Python
+Technologies/Frameworks : TensorFlow
 ```
 
 ## Multi Camera CCTV video Processing With Parallel Computing
 [link](https://github.com/mashanz/multi-cam-template)
 
 ```
-Languge              : 
-Technology/Framework : 
+Languages               : Python, SQL
+Technologies/Frameworks : XAMPP, OpenCV, Camera
 ```
 
 ## POS management Kasir with Pyhton QT
 [link](https://github.com/mashanz/E-Kasir-Dashboard-C-QT)
 
 ```
-Languge              : 
-Technology/Framework : 
+Languages               : Python
+Technologies/Frameworks : QT
 ```
 
 ## Serial Communication Car Simulator with Unity 3D
 [link](https://github.com/mashanz/Serial-Comm-Car-Simulator-with-Unity-3D)
 
 ```
-Languge              : 
-Technology/Framework : 
+Languages               : C, C++
+Technologies/Frameworks : Serial Communication, Arduino
 ```
 
 ## Trafic Analisys with Google Map API
 [link](https://github.com/mashanz/Trafic-Analisys-with-Google-API)
 
 ```
-Languge              : 
-Technology/Framework : 
+Languages               : Html, CSS, JS, PHP, SQL
+Technologies/Frameworks : XAMPP, Google Map API
 ```
 
 ## POS for Caffe App Android
 [link](https://github.com/mashanz/CaffeIn)
 
 ```
-Languge              : 
-Technology/Framework : 
+Languages               : Java
+Technologies/Frameworks : Android Studio
 ```
 
 ## Expanse Tracker App Android
 [link](https://github.com/mashanz/ETR)
 
 ```
-Languge              : 
-Technology/Framework : 
+Languages               : Java
+Technologies/Frameworks : Android Studio
 ```
 
 ## Weather App Android
 [link](https://github.com/mashanz/NgiraNgiraCuaca)
 
 ```
-Languge              : 
-Technology/Framework : 
+Languages               : Java
+Technologies/Frameworks : Android Studio
 ```
 
 ## Design Chip Tools
 [link](https://github.com/mashanz/Design-Chip-Tools)
 
 ```
-Languge              : 
-Technology/Framework : 
+Languages               : Verilog, Python, Java
+Technologies/Frameworks : 
 ```
 
 ## FPGA Tools
 [link](https://github.com/mashanz/FPGA-Tools-Firmware-ElberV2)
 
 ```
-Languge              : 
-Technology/Framework : 
+Languages               : Verilog
+Technologies/Frameworks : 
 ```
 
 ## Python Custom Offline Distribution
 [link](https://github.com/mashanz/python_self_dist)
 
 ```
-Languge              : 
-Technology/Framework : 
+Languages               : Python
+Technologies/Frameworks : Pyhton WHL
 ```
