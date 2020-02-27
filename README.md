@@ -175,6 +175,8 @@ Technologies/Frameworks : Android Studio
 ## Design Chip Tools
 > [Go to Repo](https://github.com/mashanz/Design-Chip-Tools)
 
+We make custom IC and we have collected freeware tools for it. This tools work properly to certain degree and for small projects as `microcontroller` and not as complex as `ARM` or over `16bit Processor`. The tools will break if you create high end system.
+
 ```
 Languages               : Verilog, Python, Java
 Technologies/Frameworks : FPGA, Electric VLSI, iVerilog, Microwind, Yosys
@@ -182,6 +184,8 @@ Technologies/Frameworks : FPGA, Electric VLSI, iVerilog, Microwind, Yosys
 
 ## FPGA Tools
 > [Go to Repo](https://github.com/mashanz/FPGA-Tools-Firmware-ElberV2)
+
+This is From Disk FPGA Numato Elbert V2 and downloaded content. Only Tools to make Numato FPGA work properly.
 
 ```
 Languages               : Verilog
@@ -191,7 +195,9 @@ Technologies/Frameworks : FPGA, Numato ElbertV2
 ## Python Custom Offline Distribution
 > [Go to Repo](https://github.com/mashanz/python_self_dist)
 
+Custom Offline Python Library Distribution, it only for Windows. At that time suddenly breakout (internet is really bad) and we need a lot standardization of program in multiple device. So, I create this custom installation.
+
 ```
 Languages               : Python
-Technologies/Frameworks : Pyhton WHL
+Technologies/Frameworks : Pyhton WHL, QT
 ```
