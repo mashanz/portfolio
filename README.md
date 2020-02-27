@@ -1,6 +1,6 @@
 # Open Project Development
 
-Hi There! My name is **`Hanjara Cahya Adhyatma`** This is my public projects portfolio, I have work at various and different kind of projects. From Embedded Hardware to Web Server. I start to have interest in coding since **Elementary Scool** and my first program is desktop calculator build with _VisualBasic_. When attend **Junior High School** I start _my first web_ and when I am **Senior High School** I build my own _PCB_ to create _LED Flip-Flop, simple Trafic Light and Guitar Effect_. After I go to **University** I have interest in _robotic_ and start to build various Robots.
+Hi There! My name is **`Hanjara Cahya Adhyatma`** This is my public projects portfolio, I have work at various and different kind of projects. From Embedded Hardware to Web Server. I start to have interest in coding since **Elementary Scool** and my first program is desktop calculator build with _VisualBasic_. When attend **Junior High School** I start _my first web_ and when I am **Senior High School** I build my own _PCB_ to create _LED Flip-Flop, simple Trafic Light and Guitar Effect_. After I go to **University** I have interest in _robotic_ and start to build various Robots. After graduate I still doing research with my team to create unique robot or device.
 
 In this repo I collect remaining project data `if there still available` for documentation and education purpose. Here we are!
 
@@ -56,16 +56,22 @@ Languages               : C, C++
 Technologies/Frameworks : Arduino, ATmega32, 9 DOF Sensor, I2C, Camera
 ```
 
-## RFID Door Lock
+## RFID Door Lock IoT
 [link](https://github.com/mashanz/rfid-doorlock)
+
+With RFID card and RFID reader that available for student presence. We thought of modified our laboratory security with it. At first this device save people ID on local memory. After that we upgraded to be able connect to internet and all data saved on the server.
 
 ```
 Languages               : C, C++
-Technologies/Frameworks : Arduino, ATmega32, ESP8266, TCP/IP, UDP, I2C
+Technologies/Frameworks : Arduino, ATmega32, ESP8266, TCP/IP, UDP, I2C, RFID
 ```
 
 ## IoT Health Care Monitoring
 [link](https://github.com/mashanz/Fujitsu-Health-Care)
+
+This project is an IoT device that read human behaviour and work as health care monitoring for laborer that working on the field. The purpose of this project is to tell when the worker available to work and when they should stop. This device prevent accident or emergency call if there is an accident depend on wearer condition and behaviour.
+
+This repo only contain analisys data from server to create new condition and determin what to do next depend on the collected data.
 
 ```
 Languages               : Python
@@ -75,6 +81,8 @@ Technologies/Frameworks : 10 DOF Sensor, Heart Rate Sensor, Microcontroller, Pow
 ## Humanoid Robo Soccer Firmware Artificial Intelligence
 [link](https://github.com/mashanz/ELPISTOLERRO)
 
+The robot is the 1st generation that using microcomputer on our lab at that time (2014). The purpos of robot is playing soccer. We Have 5 people in team and my responsibility are creating PCB design and Integrator API with multi processing to collect entire data from sensor, camera, and controlling all collected data to determine robot action.
+
 ```
 Languages               : Python, C, C++, Shell
 Technologies/Frameworks : OpenCV, Raspberry Pi, 9 DOF Sensor, Servo, Camera, UDP, I2C, UART, Ethernet, USB, SPI, TCP/IP
@@ -82,6 +90,8 @@ Technologies/Frameworks : OpenCV, Raspberry Pi, 9 DOF Sensor, Servo, Camera, UDP
 
 ## Firmware for Autonomous Robot Boat Virginia
 [link](https://github.com/mashanz/Dewantara-Robo-Boat-Virginia)
+
+This repo contain prototype of Autonomous Robo Boat. This robot job is to avoid obstacle and recognition their doc depend color and shape. My responsibility is to create Integrator API and Create Shape, color detection and recognition with Parallel processing and Streaming Camera Acces to monitor robot POV.
 
 ```
 Languages               : Python
