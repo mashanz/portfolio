@@ -39,6 +39,11 @@ This project from when I still Senior High School (2011). Every years our school
 
 This CMS Build with `HTML, CSS, JS, jQuery, PHP, and XAMPP (Apache, MySQL, PHP, Pearl)` Engine. At that time I still use `notepad` or `Notepad++` IDE to edit the code. This project build from scratch without any framework like `ReactJS, VueJS, Code Igniter` etc.
 
+```
+Languge              : HTML, CSS, JS, PHP
+Technology/Framework : XAMPP, jQuery
+```
+
 ## AVR 3D Axis Music Box Instrument
 > [Go to Repo](https://github.com/mashanz/AVR-3D-Axis-Music-Box-Instrument)
 
@@ -46,47 +51,127 @@ Midi digital instrumen based on '3D movement'. The instrumen build with `ATmega3
 
 This Device mainly build with `C/C++` with `Arduino Library`. On this repo source code only available. For PCB schematic and wiring you can contact me or reverse engineer with your own.
 
+```
+Languge              : C, C++
+Technology/Framework : Arduino, ATmega32, 9 DOF Sensor
+```
+
 ## IoT Health Care Monitoring
 [link](https://github.com/mashanz/Fujitsu-Health-Care)
+
+```
+Languge              : Python
+Technology/Framework : 10 DOF Sensor, Heart Rate Sensor, Microcontroller, Power BI, SQL Server, CSV
+```
 
 ## Humanoid Robo Soccer Firmware Artificial Intelligence
 [link](https://github.com/mashanz/ELPISTOLERRO)
 
+```
+Languge              : 
+Technology/Framework : 
+```
+
 ## Firmware for Autonomous Robot Boat Virginia
 [link](https://github.com/mashanz/Dewantara-Robo-Boat-Virginia)
+
+```
+Languge              : 
+Technology/Framework : 
+```
 
 ## LoPy Request for Solar System Database Controller
 [link](https://github.com/mashanz/Solar-Sel-Controller-LoPy)
 
+```
+Languge              : 
+Technology/Framework : 
+```
+
 ## Parallel Processing with TensorFlow
 [link](https://github.com/mashanz/Paralel-Calculating-with-Tensor-Flow)
+
+```
+Languge              : 
+Technology/Framework : 
+```
 
 ## Multi Camera CCTV video Processing With Parallel Computing
 [link](https://github.com/mashanz/multi-cam-template)
 
+```
+Languge              : 
+Technology/Framework : 
+```
+
 ## POS management Kasir with Pyhton QT
 [link](https://github.com/mashanz/E-Kasir-Dashboard-C-QT)
+
+```
+Languge              : 
+Technology/Framework : 
+```
 
 ## Serial Communication Car Simulator with Unity 3D
 [link](https://github.com/mashanz/Serial-Comm-Car-Simulator-with-Unity-3D)
 
+```
+Languge              : 
+Technology/Framework : 
+```
+
 ## Trafic Analisys with Google Map API
 [link](https://github.com/mashanz/Trafic-Analisys-with-Google-API)
+
+```
+Languge              : 
+Technology/Framework : 
+```
 
 ## POS for Caffe App Android
 [link](https://github.com/mashanz/CaffeIn)
 
+```
+Languge              : 
+Technology/Framework : 
+```
+
 ## Expanse Tracker App Android
 [link](https://github.com/mashanz/ETR)
+
+```
+Languge              : 
+Technology/Framework : 
+```
 
 ## Weather App Android
 [link](https://github.com/mashanz/NgiraNgiraCuaca)
 
+```
+Languge              : 
+Technology/Framework : 
+```
+
 ## Design Chip Tools
 [link](https://github.com/mashanz/Design-Chip-Tools)
+
+```
+Languge              : 
+Technology/Framework : 
+```
 
 ## FPGA Tools
 [link](https://github.com/mashanz/FPGA-Tools-Firmware-ElberV2)
 
+```
+Languge              : 
+Technology/Framework : 
+```
+
 ## Python Custom Offline Distribution
 [link](https://github.com/mashanz/python_self_dist)
+
+```
+Languge              : 
+Technology/Framework : 
+```
