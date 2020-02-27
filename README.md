@@ -30,9 +30,6 @@ Please email me if You wanna detailed information.
 15. [CaffeIn](#caffein)
 16. [ETR](#etr)
 17. [Aleph](#aleph)
-18. [Sambel Apa Garam](#sambel-apa-garam)
-19. [Ngira Ngira Cuaca JSON](#ngira-ngira-cuaca-json)
-20. [Expanse Tracker](#expanse-tracker)
 21. [Just Java](#just-java)
 22. [Ngira ngira cuaca](#ngira-ngira-cuaca)
 23. [Design Chip Tools](#design-chip-tools)
@@ -90,15 +87,6 @@ The Project Build with `HTML, CSS, JS, jQuery, PHP, and XAMPP (Apache, MySQL, PH
 
 ## Aleph
 [link](https://github.com/mashanz/Aleph)
-
-## Sambel Apa Garam
-[link](https://github.com/mashanz/SambelApaGaram)
-
-## Ngira Ngira Cuaca JSON
-[link](https://github.com/mashanz/NgiraNgiraCuacaJSON)
-
-## Expanse Tracker
-[link](https://github.com/mashanz/ExpanseTracker)
 
 ## Just Java
 [link](https://github.com/mashanz/JustJava)
