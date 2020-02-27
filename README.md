@@ -101,6 +101,8 @@ Technologies/Frameworks : OpenCV, QT, Raspbery Pi, Camera, Brushless Motor, USB,
 ## LoPy Request for Solar System Database Controller
 > [Go to Repo](https://github.com/mashanz/Solar-Sel-Controller-LoPy)
 
+It is new technology that create high level (Python) programing into microcontroller. Its Called MicroPython. It use STM32 as the microcontroller. But in LoPy use ESP32 as Controller and work similar.
+
 ```
 Languages               : MicroPython
 Technologies/Frameworks : XAMPP, LoPy, MQTT, UDP, Ethernet, TCP/IP
@@ -108,6 +110,8 @@ Technologies/Frameworks : XAMPP, LoPy, MQTT, UDP, Ethernet, TCP/IP
 
 ## Parallel Processing with TensorFlow
 > [Go to Repo](https://github.com/mashanz/Paralel-Calculating-with-Tensor-Flow)
+
+Before Google Release TensorFlow, I use multithread and pipeline or multicore from Python Library. Now This is just simple implementation of multicalculating processing with Tensor Library. Less code more robust.
 
 ```
 Languages               : Python
