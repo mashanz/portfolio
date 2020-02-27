@@ -121,6 +121,8 @@ Technologies/Frameworks : TensorFlow
 ## Multi Camera CCTV video Processing With Parallel Computing
 > [Go to Repo](https://github.com/mashanz/multi-cam-template)
 
+This is prototype for multi video processing CCTV. It use multi camera in different area at the same time to record multiple event and collect data and processing it. It implementation of Computer Vision Mixed with Parallel Computing with multi camera. In this repo, the code for calculating car in the parking area using multiple CCTV.
+
 ```
 Languages               : Python, SQL
 Technologies/Frameworks : XAMPP, OpenCV, Camera, TCP/IP, Flask
@@ -129,6 +131,8 @@ Technologies/Frameworks : XAMPP, OpenCV, Camera, TCP/IP, Flask
 ## Serial Communication Car Simulator with Unity 3D
 > [Go to Repo](https://github.com/mashanz/Serial-Comm-Car-Simulator-with-Unity-3D)
 
+This project is modular, it part of 3 main project, Driving Software Simulator, Simulator Hardware Equipment, and Communication Protocol between Hardware and Software Simulator. And this project belong to the last. it used SPI to communicatie input data from equipment to software.
+
 ```
 Languages               : C, C++
 Technologies/Frameworks : Serial Communication, Arduino
@@ -136,6 +140,8 @@ Technologies/Frameworks : Serial Communication, Arduino
 
 ## Trafic Analisys with Google Map API
 > [Go to Repo](https://github.com/mashanz/Trafic-Analisys-with-Google-API)
+
+This is web app that monitor, collect and analyse trafict condition in indonesia. This app calculate when, where, and how dense trafic in certain area.
 
 ```
 Languages               : Html, CSS, JS, PHP, SQL
