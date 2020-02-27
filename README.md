@@ -16,7 +16,7 @@ Please email me if You wanna detailed information.
 
 1. [Web Online Registration for School's Club Member](#web-online-registration-for-schools-club-member)
 2. [AVR 3D Axis Music Box Instrument](#avr-3d-axis-music-box-instrument)
-3. [RFID Door Lock](https://github.com/mashanz/rfid-doorlock)
+3. [RFID Door Lock](#rfid-door-lock)
 4. [IoT Health Care Monitoring](#iot-health-care-monitoring)
 5. [Humanoid Robo Soccer Firmware Artificial Intelligence](#humanoid-robo-soccer-firmware-artificial-intelligence)
 6. [Firmware for Autonomous Robot Boat Virginia](#firmware-for-autonomous-robot-boat-virginia)
@@ -53,7 +53,15 @@ This Device mainly build with `C/C++` with `Arduino Library`. On this repo sourc
 
 ```
 Languages               : C, C++
-Technologies/Frameworks : Arduino, ATmega32, 9 DOF Sensor, Camera
+Technologies/Frameworks : Arduino, ATmega32, 9 DOF Sensor, I2C, Camera
+```
+
+## RFID Door Lock
+[link](https://github.com/mashanz/rfid-doorlock)
+
+```
+Languages               : C, C++
+Technologies/Frameworks : Arduino, ATmega32, ESP8266, TCP/IP, UDP, I2C
 ```
 
 ## IoT Health Care Monitoring
@@ -69,7 +77,7 @@ Technologies/Frameworks : 10 DOF Sensor, Heart Rate Sensor, Microcontroller, Pow
 
 ```
 Languages               : Python, C, C++, Shell
-Technologies/Frameworks : OpenCV, Raspberry Pi, 9 DOF Sensor, Servo, Camera
+Technologies/Frameworks : OpenCV, Raspberry Pi, 9 DOF Sensor, Servo, Camera, UDP, I2C, UART, Ethernet, USB, SPI, TCP/IP
 ```
 
 ## Firmware for Autonomous Robot Boat Virginia
@@ -77,7 +85,7 @@ Technologies/Frameworks : OpenCV, Raspberry Pi, 9 DOF Sensor, Servo, Camera
 
 ```
 Languages               : Python
-Technologies/Frameworks : OpenCV, QT, Raspbery Pi, Camera, Brushless Motor
+Technologies/Frameworks : OpenCV, QT, Raspbery Pi, Camera, Brushless Motor, USB, Ethernet, TCP/IP
 ```
 
 ## LoPy Request for Solar System Database Controller
@@ -85,7 +93,7 @@ Technologies/Frameworks : OpenCV, QT, Raspbery Pi, Camera, Brushless Motor
 
 ```
 Languages               : MicroPython
-Technologies/Frameworks : XAMPP, LoPy
+Technologies/Frameworks : XAMPP, LoPy, MQTT, UDP, Ethernet, TCP/IP
 ```
 
 ## Parallel Processing with TensorFlow
@@ -101,7 +109,7 @@ Technologies/Frameworks : TensorFlow
 
 ```
 Languages               : Python, SQL
-Technologies/Frameworks : XAMPP, OpenCV, Camera
+Technologies/Frameworks : XAMPP, OpenCV, Camera, TCP/IP, Flask
 ```
 
 ## Serial Communication Car Simulator with Unity 3D
@@ -149,7 +157,7 @@ Technologies/Frameworks : Android Studio
 
 ```
 Languages               : Verilog, Python, Java
-Technologies/Frameworks : 
+Technologies/Frameworks : FPGA, Electric VLSI, iVerilog, Microwind, Yosys
 ```
 
 ## FPGA Tools
@@ -157,7 +165,7 @@ Technologies/Frameworks :
 
 ```
 Languages               : Verilog
-Technologies/Frameworks : 
+Technologies/Frameworks : FPGA, Numato ElbertV2
 ```
 
 ## Python Custom Offline Distribution
