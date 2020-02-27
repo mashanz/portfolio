@@ -57,7 +57,7 @@ Technologies/Frameworks : Arduino, ATmega32, 9 DOF Sensor, I2C, Camera
 ```
 
 ## RFID Door Lock IoT
-[link](https://github.com/mashanz/rfid-doorlock)
+> [Go to Repo](https://github.com/mashanz/rfid-doorlock)
 
 With RFID card and RFID reader that available for student presence. We thought of modified our laboratory security with it. At first this device save people ID on local memory. After that we upgraded to be able connect to internet and all data saved on the server.
 
@@ -67,7 +67,7 @@ Technologies/Frameworks : Arduino, ATmega32, ESP8266, TCP/IP, UDP, I2C, RFID
 ```
 
 ## IoT Health Care Monitoring
-[link](https://github.com/mashanz/Fujitsu-Health-Care)
+> [Go to Repo](https://github.com/mashanz/Fujitsu-Health-Care)
 
 This project is an IoT device that read human behaviour and work as health care monitoring for laborer that working on the field. The purpose of this project is to tell when the worker available to work and when they should stop. This device prevent accident or emergency call if there is an accident depend on wearer condition and behaviour.
 
@@ -79,7 +79,7 @@ Technologies/Frameworks : 10 DOF Sensor, Heart Rate Sensor, Microcontroller, Pow
 ```
 
 ## Humanoid Robo Soccer Firmware Artificial Intelligence
-[link](https://github.com/mashanz/ELPISTOLERRO)
+> [Go to Repo](https://github.com/mashanz/ELPISTOLERRO)
 
 The robot is the 1st generation that using microcomputer on our lab at that time (2014). The purpos of robot is playing soccer. We Have 5 people in team and my responsibility are creating PCB design and Integrator API with multi processing to collect entire data from sensor, camera, and controlling all collected data to determine robot action.
 
@@ -89,7 +89,7 @@ Technologies/Frameworks : OpenCV, Raspberry Pi, 9 DOF Sensor, Servo, Camera, UDP
 ```
 
 ## Firmware for Autonomous Robot Boat Virginia
-[link](https://github.com/mashanz/Dewantara-Robo-Boat-Virginia)
+> [Go to Repo](https://github.com/mashanz/Dewantara-Robo-Boat-Virginia)
 
 This repo contain prototype of Autonomous Robo Boat. This robot job is to avoid obstacle and recognition their doc depend color and shape. My responsibility is to create Integrator API and Create Shape, color detection and recognition with Parallel processing and Streaming Camera Acces to monitor robot POV.
 
@@ -99,7 +99,7 @@ Technologies/Frameworks : OpenCV, QT, Raspbery Pi, Camera, Brushless Motor, USB,
 ```
 
 ## LoPy Request for Solar System Database Controller
-[link](https://github.com/mashanz/Solar-Sel-Controller-LoPy)
+> [Go to Repo](https://github.com/mashanz/Solar-Sel-Controller-LoPy)
 
 ```
 Languages               : MicroPython
@@ -107,7 +107,7 @@ Technologies/Frameworks : XAMPP, LoPy, MQTT, UDP, Ethernet, TCP/IP
 ```
 
 ## Parallel Processing with TensorFlow
-[link](https://github.com/mashanz/Paralel-Calculating-with-Tensor-Flow)
+> [Go to Repo](https://github.com/mashanz/Paralel-Calculating-with-Tensor-Flow)
 
 ```
 Languages               : Python
@@ -115,7 +115,7 @@ Technologies/Frameworks : TensorFlow
 ```
 
 ## Multi Camera CCTV video Processing With Parallel Computing
-[link](https://github.com/mashanz/multi-cam-template)
+> [Go to Repo](https://github.com/mashanz/multi-cam-template)
 
 ```
 Languages               : Python, SQL
@@ -123,7 +123,7 @@ Technologies/Frameworks : XAMPP, OpenCV, Camera, TCP/IP, Flask
 ```
 
 ## Serial Communication Car Simulator with Unity 3D
-[link](https://github.com/mashanz/Serial-Comm-Car-Simulator-with-Unity-3D)
+> [Go to Repo](https://github.com/mashanz/Serial-Comm-Car-Simulator-with-Unity-3D)
 
 ```
 Languages               : C, C++
@@ -131,7 +131,7 @@ Technologies/Frameworks : Serial Communication, Arduino
 ```
 
 ## Trafic Analisys with Google Map API
-[link](https://github.com/mashanz/Trafic-Analisys-with-Google-API)
+> [Go to Repo](https://github.com/mashanz/Trafic-Analisys-with-Google-API)
 
 ```
 Languages               : Html, CSS, JS, PHP, SQL
@@ -139,7 +139,7 @@ Technologies/Frameworks : XAMPP, Google Map API
 ```
 
 ## POS for Caffe App Android
-[link](https://github.com/mashanz/CaffeIn)
+> [Go to Repo](https://github.com/mashanz/CaffeIn)
 
 ```
 Languages               : Java
@@ -147,7 +147,7 @@ Technologies/Frameworks : Android Studio
 ```
 
 ## Expanse Tracker App Android
-[link](https://github.com/mashanz/ETR)
+> [Go to Repo](https://github.com/mashanz/ETR)
 
 ```
 Languages               : Java
@@ -155,7 +155,7 @@ Technologies/Frameworks : Android Studio
 ```
 
 ## Weather App Android
-[link](https://github.com/mashanz/NgiraNgiraCuaca)
+> [Go to Repo](https://github.com/mashanz/NgiraNgiraCuaca)
 
 ```
 Languages               : Java
@@ -163,7 +163,7 @@ Technologies/Frameworks : Android Studio
 ```
 
 ## Design Chip Tools
-[link](https://github.com/mashanz/Design-Chip-Tools)
+> [Go to Repo](https://github.com/mashanz/Design-Chip-Tools)
 
 ```
 Languages               : Verilog, Python, Java
@@ -171,7 +171,7 @@ Technologies/Frameworks : FPGA, Electric VLSI, iVerilog, Microwind, Yosys
 ```
 
 ## FPGA Tools
-[link](https://github.com/mashanz/FPGA-Tools-Firmware-ElberV2)
+> [Go to Repo](https://github.com/mashanz/FPGA-Tools-Firmware-ElberV2)
 
 ```
 Languages               : Verilog
@@ -179,7 +179,7 @@ Technologies/Frameworks : FPGA, Numato ElbertV2
 ```
 
 ## Python Custom Offline Distribution
-[link](https://github.com/mashanz/python_self_dist)
+> [Go to Repo](https://github.com/mashanz/python_self_dist)
 
 ```
 Languages               : Python
